@@ -29,5 +29,4 @@ export class AppComponent {
  studentName = "thamcth";
  studentId = "PH16766"
 }
-//kiểu dữ liệu mảng
   
